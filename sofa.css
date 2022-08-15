@@ -1,0 +1,242 @@
+header{
+    color: aliceblue;
+    background-color:black;
+  
+}
+.head img{
+    display: inline-block; 
+}
+ h3{
+    font-size: 25px;
+    margin-left: 1070px;
+    position: absolute;
+    top: 1%;
+}
+span{
+    color: gold;
+    font-size: 40px;
+}
+.head2{
+    color: aliceblue;
+    padding-left: 140px;
+    padding-bottom: 10px;
+    margin-top: 30px;
+    font-size: 23px;
+  
+}
+.head2 li:hover{
+    color: goldenrod;
+}
+.list li{
+    list-style: none;
+    border-bottom: 2px solid black;
+    width: 180px;
+    margin-right: 10px;
+
+}
+.list ul{
+    left: 2%;
+    margin-top: 30px;
+    position: absolute;
+    margin-right: 20px;
+    font-size: 20px;
+}
+.tag h2{
+    color: goldenrod;
+   text-align: center;
+    font-size: 30px;
+    position: absolute;
+   bottom: -130%;
+   margin-left: 1060px;
+ 
+}
+.tag h1{
+    color: goldenrod;
+   text-align: center;
+    font-size: 30px;
+    position: absolute;
+   bottom: -165%;
+   margin-left: 960px;
+ 
+}
+.head2 li{
+    margin-left: 20px;
+    list-style: none;
+    display: inline-block;
+    padding-right: 30px;
+    padding-top: 20px; 
+    cursor: pointer;
+}
+.fa-cart-shopping{
+    color: aliceblue;
+    font-size: 30px;
+    margin-left: 1200px;
+    top: 20%;
+    position: absolute;
+    top: 1%;
+    cursor: pointer;
+}
+
+.fa-user-plus{
+    color: aliceblue;
+    font-size: 30px;
+    margin-left: 1120px;
+    top: 20%;
+    position: absolute;
+    top: 1%;
+    cursor: pointer;
+}
+.fa-heart{
+    color: aliceblue;
+    font-size: 30px;
+    margin-left: 1035px;
+    top: 20%;
+    position: absolute;
+    top: 1%;
+    cursor: pointer;
+
+}
+.form{
+    position: absolute;
+    top: -19%;
+    margin-left: 450px;
+    
+}
+.form input{
+    width: 500px;
+    height: 50px;
+    border-radius: 10px;
+    text-align: center;
+}
+.form button{
+    width: 100px;
+    height: 40px;
+    border-radius: 10px;
+    background-color:goldenrod;
+    color:black;
+    margin-top: 160px;
+    
+   
+    
+}
+.fa-facebook{
+    color: aliceblue;
+    font-size: 30px;
+    margin-left: 1070px;
+    top: 20%;
+    position: absolute;
+    top: 235%;
+    cursor: pointer;
+}
+.fa-instagram{
+    color: aliceblue;
+    font-size: 30px;
+    margin-left: 1134px;
+    top: 20%;
+    position: absolute;
+    top: 235%;
+    cursor: pointer;
+}
+.fa-youtube{
+    color: aliceblue;
+    font-size: 30px;
+    margin-left: 1261px;
+    top: 20%;
+    position: absolute;
+    top: 235%;
+    cursor: pointer;
+}
+.fa-twitter{
+    color: aliceblue;
+    font-size: 30px;
+    margin-left: 1197px;
+    top: 20%;
+    position: absolute;
+    top: 235%;
+    cursor: pointer;
+}
+.bot{
+    background-color: black;
+    width: 1550px;
+    height: 800px;
+   
+} 
+footer{
+    margin-top: 800px;
+    height: 150px;
+}
+.end h2{        
+    font-size: 40px;
+    color:goldenrod;
+    margin-top: 60px;
+    margin-left: 440px;
+  
+}
+.foot h3{
+    color: goldenrod;
+    margin-left: 110px;
+    font-size: 25px;
+   position: absolute;
+   top: 185%;
+}
+.foot li{
+    color: aliceblue;
+    margin-top: 20px;
+    
+}
+.foot ul{
+    list-style: none;
+    font-size: 20px;
+    margin-left: 110px;
+    bottom: -138%;
+    position: absolute; 
+    
+} 
+.row h5 {
+    color:goldenrod;
+    margin-left: 640px;
+    font-size: 25px;
+   position: absolute;
+   bottom: -89%;
+
+}
+.row li{
+    color:aliceblue;
+    margin-top: 20px;
+
+} 
+.row ul{
+    list-style: none;
+    font-size: 20px;
+    margin-left: 570px;
+    bottom: -109%;
+    position: absolute;    
+}
+.hit h6 {
+    color:goldenrod;
+    margin-left: 1170px;
+    font-size: 25px;
+   position: absolute;
+   bottom: -88%;
+
+}
+.hit li{
+    color:aliceblue;
+    margin-top: 20px;
+
+} 
+.hit ul{
+    list-style: none;
+    font-size: 20px;
+    margin-left: 1170px;
+    bottom: -107%;
+    position: absolute;    
+}
+hr{
+    width: 950px;
+    margin-left: 285px ;
+}
+*{
+    margin: 0;
+    padding: 0;
+}

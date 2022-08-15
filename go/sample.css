@@ -1,0 +1,63 @@
+html,body{
+    overflow-x: hidden;
+}
+.container1{
+    display:flex;
+    height:500px;
+    justify-content: space-between;
+}
+.container1 div{
+width:25%;}
+p{color:black;
+font-size:15px;
+text-transform:lowercase;
+font-weight:100;
+font-family:'Times New Roman', Times, serif;
+text-align:center;
+}
+.item1{flex:4;
+font-size}
+.item2{flex:4;}
+.item3{flex:4;}
+.item4{flex:4;}
+h1{text-align:center;
+color:blue;
+text-transform:capitalize;
+}
+.container3{display:flex;  
+    }
+    
+    .itm1
+    {flex:8;}
+    .cplblog
+    {flex:5;
+    border:2px solid black;}
+    .new{display:flex;
+    justify-content:space-around;}
+    .new div{width:15px;}
+    .cx{flex:6;
+       
+    }
+    .hb{flex:4;}
+    .cb{flex:4;}
+    .cn{flex:4;}
+    .fly{margin-left:500px;}
+.line{font-size: large;
+color:black;
+font-family: sans-serif;}
+
+
+    @media(max-width:1040px){
+        .new{flex-direction: column;
+          border: 2px solid black;
+        
+        }
+        .cx,.hb,.cn,.cb{
+            margin-left: 30%; 
+     
+           border: 2px solid black;
+        }
+    }
+    @media(max-width:300px){
+        .container1{flex-direction:column;}
+    }
